@@ -1,5 +1,5 @@
 # GSE520-PS01
-GSE520: Advanced Econometrics I.  Problem Assignment 1
+GSE520: Advanced Econometrics I.  Problem Assignment 1 in R
 
 ---
 title: 'GSE 520: Problem Set #1'
