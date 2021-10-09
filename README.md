@@ -1,4 +1,4 @@
-# GSE520-PS01
+# GSE520-PS01 for R
 GSE520: Advanced Econometrics I.  Problem Assignment 1 in R
 
 ---
